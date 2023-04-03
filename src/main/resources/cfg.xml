@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cfg>
+
+    <generatorCfg>
+
+<!--        <pathToWordWithQuestions>D:\MPEI\ASPA\ASPA_SEM4\лабы реле\МТЗ\МТЗ вопросы.docx</pathToWordWithQuestions>-->
+<!--        <numberTickets>9</numberTickets>-->
+<!--        <pathToWordWithTickets>D:\MPEI\ASPA\ASPA_SEM4\лабы реле\МТЗ\билеты ЛР1.docx</pathToWordWithTickets>-->
+
+
+<!--        <pathToWordWithQuestions>D:\MPEI\ASPA\ASPA_SEM4\лабы реле\Ступенчатая\ступенчатая вопросы.docx</pathToWordWithQuestions>-->
+<!--        <numberTickets>18</numberTickets>-->
+<!--        <pathToWordWithTickets>D:\MPEI\ASPA\ASPA_SEM4\лабы реле\Ступенчатая\билеты ЛР3.docx</pathToWordWithTickets>-->
+
+
+        <pathToWordWithQuestions>D:\MPEI\ASPA\ASPA_SEM4\лабы реле\Токораспределение\токораспределение вопросы.docx</pathToWordWithQuestions>
+        <numberTickets>18</numberTickets>
+        <pathToWordWithTickets>D:\MPEI\ASPA\ASPA_SEM4\лабы реле\Токораспределение\билеты ЛР2.docx</pathToWordWithTickets>
+
+
+        <questions>
+
+            <block
+                    numberStartQuestion="1"
+                    numberEndQuestion="3"
+                    numberRequiredQuestions="3"
+            />
+
+            <block
+                    numberStartQuestion="4"
+                    numberEndQuestion="15"
+                    numberRequiredQuestions="2"
+            />
+
+        </questions>
+
+
+    </generatorCfg>
+
+
+<!--    <generatorCfg>-->
+
+<!--        <pathToWordWithQuestions>D:\MPEI\ASPA\ASPA_SEM3\Лабы\Синхронизатор\вопросы синхронизатор.docx</pathToWordWithQuestions>-->
+<!--        <numberTickets>15</numberTickets>-->
+<!--        <pathToWordWithTickets>D:\MPEI\ASPA\ASPA_SEM3\Лабы\Синхронизатор\билеты синхронизатор.docx</pathToWordWithTickets>-->
+
+<!--        <questions>-->
+
+<!--            <block-->
+<!--                    numberStartQuestion="1"-->
+<!--                    numberEndQuestion="2"-->
+<!--                    numberRequiredQuestions="2"-->
+<!--            />-->
+
+<!--            <block-->
+<!--                    numberStartQuestion="3"-->
+<!--                    numberEndQuestion="5"-->
+<!--                    numberRequiredQuestions="1"-->
+<!--            />-->
+
+<!--            <block-->
+<!--                    numberStartQuestion="6"-->
+<!--                    numberEndQuestion="17"-->
+<!--                    numberRequiredQuestions="2"-->
+<!--            />-->
+
+<!--        </questions>-->
+
+
+<!--    </generatorCfg>-->
+
+
+</cfg>
